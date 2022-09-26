@@ -1,0 +1,3 @@
+me\dragonite\Magic.class
+META-INF\services\javax.annotation.processing.Processor
+me\dragonite\MagicMojaProcessor.class
